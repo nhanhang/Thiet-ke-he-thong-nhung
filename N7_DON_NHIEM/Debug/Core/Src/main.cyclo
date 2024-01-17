@@ -1,0 +1,17 @@
+../Drivers/CMSIS/Include/core_cm3.h:1511:22:__NVIC_EnableIRQ	2
+../Drivers/CMSIS/Include/core_cm3.h:1547:22:__NVIC_DisableIRQ	2
+../Core/Src/main.c:102:5:__io_putchar	1
+../Core/Src/main.c:109:6:HAL_UART_RxCpltCallback	3
+../Core/Src/main.c:127:6:TASK_UART_Handler	9
+../Core/Src/main.c:185:6:TASK_Dht_Sense	1
+../Core/Src/main.c:193:6:TASK_Dist_Sense	1
+../Core/Src/main.c:201:6:TASK_lcd_Measurement	5
+../Core/Src/main.c:238:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:248:5:main	1
+../Core/Src/main.c:309:6:SystemClock_Config	3
+../Core/Src/main.c:349:13:MX_I2C2_Init	2
+../Core/Src/main.c:383:13:MX_TIM1_Init	4
+../Core/Src/main.c:429:13:MX_TIM4_Init	4
+../Core/Src/main.c:474:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:507:13:MX_GPIO_Init	1
+../Core/Src/main.c:546:6:Error_Handler	1

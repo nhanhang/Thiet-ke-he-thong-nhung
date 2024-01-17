@@ -1,0 +1,9 @@
+../Core/Src/Task_Scheduler.c:7:6:hSCH_Init	2
+../Core/Src/Task_Scheduler.c:22:6:SCH_Start	1
+../Core/Src/Task_Scheduler.c:29:6:hSCH_Dispatch_Tasks	6
+../Core/Src/Task_Scheduler.c:51:11:SCH_Add_Task	2
+../Core/Src/Task_Scheduler.c:68:6:SCH_Delete_Task	1
+../Core/Src/Task_Scheduler.c:78:6:SCH_Enable_Task	1
+../Core/Src/Task_Scheduler.c:85:6:SCH_Disable_Task	1
+../Core/Src/Task_Scheduler.c:92:6:SCH_Delay_Task	1
+../Core/Src/Task_Scheduler.c:98:6:SCH_Update	7
